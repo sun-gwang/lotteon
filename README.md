@@ -1,15 +1,12 @@
 ## 💻 롯데 e-커머스 LotteOn 쇼핑몰 개발
+<details>
+  <summary style="fontWeight:blder">🎞️유튜브 시연 영상🎞️</summary>
+  https://www.youtube.com/watch?v=eYYFg6AiAhE
+</details>
 
 
 
-
-
-
-## 🎞️유튜브 시연 영상🎞️
-## https://www.youtube.com/watch?v=eYYFg6AiAhE
-<hr>
-
-# LotteON team3 프로젝트 업데이트 내역
+## LotteON team3 프로젝트 업데이트 내역
 0.0.1-SNAPSHOT
  - 프로젝트 구조 설계
  - 프로젝트 화면 레이아웃 구현
