@@ -1,8 +1,5 @@
-# 💻 롯데 e-커머스 LotteOn 쇼핑몰 개발
-<img src="" alt="Main Image" width="410" height="380">
-<img src="" alt="Main Image" width="410" height="380">
-<img src="" alt="Main Image" width="410" height="380">
-<img src="" alt="Main Image" width="410" height="380">
+# 롯데 e-커머스 LotteOn 쇼핑몰 개발
+![346067643-2717cd49-a918-4ee8-9bca-ea3b61c0cd82](https://github.com/user-attachments/assets/6bd60568-f7c1-41f4-a31d-63bc3bf302b7)
 
 ## 🗓️ 제작기간
 > ### 2024.04.15 ~ 2024.05.16 (1개월)  
